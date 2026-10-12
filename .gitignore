@@ -1,0 +1,4 @@
+data/*.csv
+.venv/
+config/*.secret
+gx/uncommitted/
